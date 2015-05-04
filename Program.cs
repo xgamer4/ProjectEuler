@@ -14,7 +14,7 @@ namespace ProjectEuler
 
 		public static void Main (string[] args)
 		{
-			new Problem3 ();
+			new Problem4 ();
 		}
 	}
 
@@ -104,11 +104,7 @@ namespace ProjectEuler
 				return false;
 			}
 		}
-				
-
 
 
 	}
-
-
 }
